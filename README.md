@@ -8,7 +8,7 @@
 
 
 ## About 
-Flow is a cross-platform application developed using the Flutter framework. Inspired by Instagram.
+Flow is a cross-platform mobile application developed using the Flutter framework. Inspired by Instagram. 
 <br/><br/>
 ## Screenshots
 
