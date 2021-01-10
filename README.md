@@ -1,8 +1,7 @@
-# Flow
 
 ![alt text](https://i.ibb.co/Rzwjt3w/flow-w.png)
 
-A new Flutter project.
+
 
 ## Project Scope
 
