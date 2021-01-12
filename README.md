@@ -1,5 +1,5 @@
 
-![alt text](https://i.ibb.co/Rzwjt3w/flow-w.png)
+![alt text](https://i.ibb.co/GccTD7n/flow-logo.png)
 
 # Go with the flow! 🤍
 
